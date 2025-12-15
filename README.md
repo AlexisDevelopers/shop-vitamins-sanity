@@ -200,14 +200,3 @@ Frontend / Software Engineer
 
 - GitHub: https://github.com/AlexisDevelopers
 - LinkedIn: https://linkedin.com/in/your-profile
-
-## 📸 Screenshots
-
-![VIU Vitamin Shop Hero](docs/images/hero-section.png)
-*Hero section featuring discount week promotion*
-
-![Product Catalog](docs/images/product-catalog.png)
-*Top-selling men's health vitamins section*
-
-![Newsletter](docs/images/newsletter.png)
-*Newsletter subscription component*
