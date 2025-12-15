@@ -199,4 +199,4 @@ This project is licensed under the ISC License.
 Frontend / Software Engineer
 
 - GitHub: https://github.com/AlexisDevelopers
-- LinkedIn: https://linkedin.com/in/your-profile
+- LinkedIn: [https://linkedin.com/in/alexisdelossantos](https://www.linkedin.com/in/alexisdelossantos/)
